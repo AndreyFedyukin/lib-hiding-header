@@ -2,7 +2,7 @@
 
 ## Библиотека шаблонов. "Скрывающийся header"
 
-Ссылка на сайт - <https://andreyfedyukin.github.io/hiding-header/>
+Ссылка на сайт - <https://andreyfedyukin.github.io/lib-hiding-header/>
 
 ---
 
